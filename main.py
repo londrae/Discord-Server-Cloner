@@ -40,7 +40,7 @@ else:
 
 token = ''
 if token == '':
-    print('>  Provide a token')
+    token = input('>  Provide a token: \n>  ')
 guild_s = input(f'>  Server to clone: \n>  ')
 guild = input(f'>  Your server: \n>  ')
 input_guild_id = guild_s

@@ -11,11 +11,11 @@ def print_delete(message):
 
 
 def print_warning(message):
-    print(f'   {Fore.RED}[WARNING]{Style.RESET_ALL} {message}')
+    print(f'   {Fore.YELLOW}[!]{Style.RESET_ALL} {message}')
 
 
 def print_error(message):
-    print(f'   {Fore.RED}[ERROR]{Style.RESET_ALL} {message}')
+    print(f'   {Fore.RED}[!]{Style.RESET_ALL} {message}')
 
 
 class Clone:
