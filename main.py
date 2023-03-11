@@ -10,7 +10,7 @@ from pypresence import Presence
 import psutil
 from os import system
 
-mytitle = 'svclone'
+mytitle = 'Discord Server Cloner'
 system(f'{mytitle}')
 
 client = discord.Client()
@@ -18,7 +18,7 @@ os = platform.system()
 if os == 'Windows':
     system('cls')
     print(chr(27) + "[2J")
-    print(f"""{Fore.BLUE}>> svclone
+    print(f"""{Fore.BLUE}>> {mytitle}{Style.RESET_ALL}
     
 {Fore.LIGHTYELLOW_EX}>  GitHub repo{Style.RESET_ALL}
 {Fore.LIGHTYELLOW_EX}>  https://github.com/londrae/Discord-Server-Cloner{Style.RESET_ALL}
@@ -29,7 +29,7 @@ if os == 'Windows':
 else:
     system('clear')
     print(chr(27) + "[2J")
-    print(f"""{Fore.BLUE}>> svclone
+    print(f"""{Fore.BLUE}>> {mytitle}{Style.RESET_ALL}
 
 {Fore.LIGHTYELLOW_EX}>  GitHub repo{Style.RESET_ALL}
 {Fore.LIGHTYELLOW_EX}>  https://github.com/londrae/Discord-Server-Cloner{Style.RESET_ALL}
