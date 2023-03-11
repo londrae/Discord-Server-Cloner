@@ -10,7 +10,7 @@ This is modified clone of [94q/Discord-Server-Cloner](https://github.com/94q/Dis
 
 <img src="https://storage.googleapis.com/replit/images/1678291976403_1289b540408b27b11fd117585b41e36a.webp" style="height: 16px; width: 16px" /> &nbsp;[`Run on Replit`](https://replit.com/github/londrae/Discord-Server-Cloner)
 
-<img src="https://cdn.iconscout.com/icon/free/png-256/heroku-2752161-2284978.png" style="height: 16px; width: 16px" /> &nbsp;[`Deploy on Heroku`](https://replit.com/github/londrae/Discord-Server-Cloner)
+<img src="https://cdn.iconscout.com/icon/free/png-256/heroku-2752161-2284978.png" style="height: 16px; width: 16px" /> &nbsp;[`Deploy on Heroku`](https://heroku.com/deploy?template=https://github.com/londrae/Discord-Server-Cloner)
 
 ## License
 
