@@ -1,5 +1,9 @@
 # Discord Server Cloner
 
+## Original content
+
+This is modified clone of [94q/Discord-Server-Cloner](https://github.com/94q/Discord-Server-Cloner) (deleted)
+
 ## Quick setup
 
 <img src="https://glitch.com/favicon.ico" style="height: 16px" /> &nbsp;[`Remix on Glitch`](https://glitch.com/edit/#!/import/github/londrae/Discord-Server-Cloner)
